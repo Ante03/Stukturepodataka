@@ -1,0 +1,18 @@
+﻿  Source.c
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(37,10): warning C4101: 'Persons': unreferenced local variable
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(35,18): warning C4101: 'i': unreferenced local variable
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(35,6): warning C4101: 'no_persons': unreferenced local variable
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(128,21): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(128,16): warning C4024: 'add_to_list': different types for formal and actual parameter 1
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(132,20): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(132,15): warning C4024: 'add_to_end': different types for formal and actual parameter 1
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(136,20): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(136,15): warning C4024: 'print_list': different types for formal and actual parameter 1
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(140,21): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(140,16): warning C4024: 'find_person': different types for formal and actual parameter 1
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(144,23): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(144,18): warning C4024: 'delete_person': different types for formal and actual parameter 1
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(114,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(162,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Ante\Stukturepodataka\vjezba2\vj2\vj2\Source.c(182,6): warning C4101: 'i': unreferenced local variable
+  vj2.vcxproj -> C:\Users\Ante\Stukturepodataka\vjezba2\vj2\x64\Debug\vj2.exe
